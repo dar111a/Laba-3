@@ -1,0 +1,130 @@
+N	Language	ISO-639 code	Text
+--------------------------------------------------
+1	afrikaans	af		Goeie dag
+2	albanian	sq		Diten e mire
+3	amharic		am		እንደምን ዋልክ
+4	arabic		ar		يوم جيد
+5	armenian	hy		Լավ օր
+6	assamese	as		শুভ দিন
+7	aymara		ay		Aski uru
+8	azerbaijani	az		Yaxşı gün
+9	bambara		bm		Ka tile hɛrɛ
+10	basque		eu		Egun ona
+11	belarusian	be		Добры дзень
+12	bengali		bn		শুভ দিন
+13	bhojpuri	bho		दिन सुभ हो
+14	bosnian		bs		Dobar dan
+15	bulgarian	bg		Добър ден
+16	catalan		ca		Bon dia
+17	cebuano		ceb		Maayong adlaw
+18	chichewa	ny		Tsiku labwino
+19	chinese (simplified)	zh-CN		再会
+20	chinese (traditional)	zh-TW		再會
+21	corsican	co		Bella ghjurnata
+22	croatian	hr		Dobar dan
+23	czech		cs		Dobrý den
+24	danish		da		God dag
+25	dhivehi		dv		ބާއްޖަވެރި ދުވަހެއް
+26	dogri		doi		दिन चंगा होए
+27	dutch		nl		Goededag
+28	english		en		Good day
+29	esperanto	eo		Bonan tagon
+30	estonian	et		Head päeva
+31	ewe		ee		Ŋkekea me nenyo
+32	filipino	tl		Magandang araw
+33	finnish		fi		Hyvää päivää
+34	french		fr		Bonne journée
+35	frisian		fy		Goeie
+36	galician	gl		Bo día
+37	georgian	ka		Კარგი დღე
+38	german		de		Guten Tag
+39	greek		el		Καλή μέρα
+40	guarani		gn		Mba'éichapa neko'ẽ
+41	gujarati	gu		શુભ દિવસ
+42	haitian creole	ht		Bonjou
+43	hausa		ha		Ina kwana
+44	hawaiian	haw		He lā maikaʻi
+45	hebrew		iw		יום טוב
+46	hindi		hi		शुभ दिन
+47	hmong		hmn		Hnub zoo
+48	hungarian	hu		Jó nap
+49	icelandic	is		Góðan dag
+50	igbo		ig		Ehihie ọma
+51	ilocano		ilo		Naimbag nga aldaw
+52	indonesian	id		Selamat tinggal
+53	irish		ga		Lá maith
+54	italian		it		Buona giornata
+55	japanese	ja		良い一日
+56	javanese	jw		sugeng siang
+57	kannada		kn		ಶುಭ ದಿನ
+58	kazakh		kk		Қайырлы күн
+59	khmer		km		ថ្ងៃ​ល្អ
+60	kinyarwanda	rw		Umunsi mwiza
+61	konkani		gom		उत्तम दीस
+62	korean		ko		안녕하세요
+63	krio		kri		Adu-o
+64	kurdish (kurmanji)	ku		Roj baş
+65	kurdish (sorani)	ckb		بەهیوای ڕۆژێکی خۆش
+66	kyrgyz		ky		Кайырдуу күн
+67	lao		lo		ມື້ທີ່ດີ
+68	latin		la		Bonus dies
+69	latvian		lv		Laba diena
+70	lingala		ln		Mokolo malamu
+71	lithuanian	lt		Gera diena
+72	luganda		lg		Olunaku olulungi
+73	luxembourgish	lb		Gudden Dag
+74	macedonian	mk		Добар ден
+75	maithili	mai		बढिया दिन
+76	malagasy	mg		Andro tsara
+77	malay		ms		selamat hari
+78	malayalam	ml		ശുഭദിനം
+79	maltese		mt		Il-ġurnata t-tajba
+80	maori		mi		Pai rā
+81	marathi		mr		शुभ दिवस
+82	meiteilon (manipuri)	mni-Mtei		ꯌꯥꯏꯐꯔꯕ ꯅꯨꯃꯤꯠ
+83	mizo		lus		Ni hman nuam le
+84	mongolian	mn		Сайхан өдөр
+85	myanmar		my		ကောင်းသောနေ့
+86	nepali		ne		शुभ दिन
+87	norwegian	no		God dag
+88	odia (oriya)	or		ଦିନଟି ଭଲରେ କଟୁ
+89	oromo		om		Guyyaa gaarii
+90	pashto		ps		ښه ورځ
+91	persian		fa		روز خوب
+92	polish		pl		Dobry dzień
+93	portuguese	pt		Bom dia
+94	punjabi		pa		ਚੰਗਾ ਦਿਨ
+95	quechua		qu		Allin punchaw
+96	romanian	ro		O zi buna
+97	russian		ru		Добрий день
+98	samoan		sm		Manuia le aso
+99	sanskrit	sa		शुभ दिवस
+100	scots gaelic	gd		Latha math
+101	sepedi		nso		Letšatši le lebotse
+102	serbian		sr		Добар дан
+103	sesotho		st		Lumela
+104	shona		sn		Zuva rakanaka
+105	sindhi		sd		توهان جو ڏينهن سٺو گذري
+106	sinhala		si		සුබ දිනක්
+107	slovak		sk		Dobrý deň
+108	slovenian	sl		Dober dan
+109	somali		so		Maalin wacan
+110	spanish		es		Buen día
+111	sundanese	su		Wilujeng siang
+112	swahili		sw		Siku njema
+113	swedish		sv		God dag
+114	tajik		tg		Рӯзи нағз
+115	tamil		ta		நல்ல நாள்
+116	tatar		tt		Яхшы көн
+117	telugu		te		మంచి రోజు
+118	thai		th		ขอให้เป็นวันที่ดี
+119	tigrinya	ti		ብሩኽ መዓልቲ
+120	tsonga		ts		Siku lerinene
+121	turkish		tr		İyi günler
+122	turkmen		tk		Günüňiz haýyrly
+123	twi		ak		Da pa
+124	ukrainian	uk		Добрий день
+125	urdu		ur		اچھا دن
+126	uyghur		ug		خەيرلىك كۈن
+127	uzbek		uz		Xayrli kun
+128	vietnamese	vi		ngày tốt

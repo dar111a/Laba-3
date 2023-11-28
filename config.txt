@@ -1,0 +1,7 @@
+input_filename = input.txt
+output_filename = output.txt
+max_chars = 5000
+max_words = 1000
+max_sentences = 10
+language = ru
+output_destination = file
